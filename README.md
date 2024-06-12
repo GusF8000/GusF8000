@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There
 
 <!--
 **GusF8000/GusF8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
